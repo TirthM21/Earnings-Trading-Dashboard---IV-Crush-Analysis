@@ -43,7 +43,7 @@ Ensure you have **Python 3.x** installed. You will need the following Python lib
     Navigate to the project directory in your terminal and execute:
 
     ```bash
-    python project3.py
+    python app.py
     ```
 
 2.  **Configure Analysis**:
